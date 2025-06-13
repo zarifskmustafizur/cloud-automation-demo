@@ -17,4 +17,13 @@ The included workflow is triggered on every `push` event and performs the follow
 - Runs a simple shell command to output a message
 
 ## 📁 Project Structure
+.github/
+└── workflows/
+└── main.yml
+README.md
+
+## Resources
+
+- [GitHub Actions Documentation](https://docs.github.com/en/actions)
+- [GitHub Actions Variables](https://docs.github.com/en/actions/learn-github-actions/variables)
 
